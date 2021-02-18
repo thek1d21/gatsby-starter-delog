@@ -1,8 +1,7 @@
 backend:
   name: github
   # change repo to your git repository url
-  repo: http://github.com/thek1d21/gatsby-starter-delog
-
+  repo: https://github.com/thek1d21/gatsby-starter-delog.git
 media_folder: static/assets
 public_folder: /assets
 
